@@ -13,3 +13,6 @@
     display: inline-block;
 }
 
+.my-carousel {
+    left: -300px;
+}
