@@ -1,0 +1,15 @@
+.card { 
+    position: relative;
+    left: 60px;
+    bottom: -40px;
+}
+
+.carouselExampleFade{
+    size: 50px;
+}
+
+.cardI{
+    display: flex;
+    display: inline-block;
+}
+
