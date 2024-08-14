@@ -3,7 +3,7 @@
   <html>
     <head>
       <meta charset="utf-8" />
-      <title>App Help Desk</title>
+      <title>olper Motors</title>
 
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
@@ -20,8 +20,8 @@
 
       <nav class="navbar navbar-dark bg-dark">
         <a class="navbar-brand" href="#">
-          <img src="logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
-          App Help Desk
+          <img src="https://pngimg.com/d/mercedes_PNG80199.png" width="30" height="30" class="d-inline-block align-top" alt="">
+          Olper Motors
         </a>
       </nav>
 

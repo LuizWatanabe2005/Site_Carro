@@ -1,4 +1,3 @@
-
 <?php
     
     require_once "validator.php";
@@ -53,7 +52,7 @@
         </li>
         
         <li class="nav-item">
-          <a class="nav-link disabled" href="#">Desativado</a>
+          <a class="nav-link disabled" href="http://localhost/xampp/Site_Carro-main/">Sair</a>
         </li>
 
       </ul>
